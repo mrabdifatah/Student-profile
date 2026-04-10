@@ -3,8 +3,6 @@
 ### **Name**
 **Abdifatah Mohammed Bashe**
 
----
-
 ### **Skills** 🚀
 
 **Frontend & Frameworks**
